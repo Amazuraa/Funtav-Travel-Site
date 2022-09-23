@@ -6,7 +6,7 @@ This Project made with React JS and Laravel Lumen
 #### &nbsp; Frontend Setup : 
 
 ```bash
-- cd Frontent
+- cd Frontend
 - npm start
 - Open Browser on 127.0.0.1:3001
 ```
